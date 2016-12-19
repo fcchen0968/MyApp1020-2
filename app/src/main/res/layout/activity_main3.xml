@@ -10,4 +10,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.user.myapp1020_2.Main3Activity">
 
+    <TextView
+        android:text="hell12345"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="124dp"
+        android:layout_marginTop="202dp"
+        android:id="@+id/textView3" />
 </RelativeLayout>
